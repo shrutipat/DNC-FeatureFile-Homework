@@ -1,0 +1,39 @@
+2019-05-19 01:05:09 INFO  HomePage :49 - Click on Login Link
+2019-05-19 01:05:319 INFO  LoginPage :61 - Verify welcome text
+2019-05-19 01:05:320 INFO  LoginPage :56 - Get welcome text
+2019-05-19 01:05:219 INFO  HomePage :49 - Click on Login Link
+2019-05-19 01:05:745 INFO  LoginPage :38 - Enter email address
+2019-05-19 01:05:73 INFO  LoginPage :44 - Enter password
+2019-05-19 01:05:237 INFO  LoginPage :50 - Click on Login Button
+2019-05-19 01:05:380 INFO  LoginPage :76 - Verify that user is logged in successfully
+2019-05-19 01:05:382 INFO  LoginPage :71 - Get Successful Login Text
+2019-05-19 01:05:860 INFO  HomePage :49 - Click on Login Link
+2019-05-19 01:05:162 INFO  LoginPage :38 - Enter email address
+2019-05-19 01:05:325 INFO  LoginPage :44 - Enter password
+2019-05-19 01:05:471 INFO  LoginPage :50 - Click on Login Button
+2019-05-19 01:05:149 INFO  LoginPage :91 - Verify that user is not logged in successfully
+2019-05-19 01:05:150 INFO  LoginPage :86 - Get unsuccessful login text
+2019-05-19 01:05:133 INFO  HomePage :49 - Click on Login Link
+2019-05-19 01:05:562 INFO  LoginPage :38 - Enter email address
+2019-05-19 01:05:801 INFO  LoginPage :44 - Enter password
+2019-05-19 01:05:950 INFO  LoginPage :50 - Click on Login Button
+2019-05-19 01:05:126 INFO  LoginPage :91 - Verify that user is not logged in successfully
+2019-05-19 01:05:127 INFO  LoginPage :86 - Get unsuccessful login text
+2019-05-19 01:05:334 INFO  HomePage :49 - Click on Login Link
+2019-05-19 01:05:625 INFO  LoginPage :38 - Enter email address
+2019-05-19 01:05:788 INFO  LoginPage :44 - Enter password
+2019-05-19 01:05:933 INFO  LoginPage :50 - Click on Login Button
+2019-05-19 01:05:95 INFO  LoginPage :91 - Verify that user is not logged in successfully
+2019-05-19 01:05:95 INFO  LoginPage :86 - Get unsuccessful login text
+2019-05-19 01:05:430 INFO  HomePage :97 - Click on Books Link
+2019-05-19 01:05:338 INFO  HomePage :21 - Verify that User is on Books Page
+2019-05-19 01:05:339 INFO  HomePage :16 - Get Books Page Text
+2019-05-19 01:05:664 INFO  HomePage :91 - Click on Digital Download Link
+2019-05-19 01:05:580 INFO  HomePage :22 - Verify that user is on digital download page
+2019-05-19 01:05:581 INFO  HomePage :17 - Get digital downloads page text
+2019-05-19 01:05:935 INFO  HomePage :73 - Click on Computer Link
+2019-05-19 01:05:529 INFO  HomePage :21 - Verify that user is on computers page
+2019-05-19 01:05:530 INFO  HomePage :16 - Get computers page text
+2019-05-19 01:05:525 INFO  HomePage :85 - Click on Apparel Link
+2019-05-19 01:05:16 INFO  HomePage :21 - Verify that User is on apparel page
+2019-05-19 01:05:16 INFO  HomePage :16 - Get Apparel Page Text
